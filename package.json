@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/totemstan/homespace.git"
+    "url": "git+ssh://git@github.com/totemstan/home.git"
   },
   "author": "acmesds",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/totemstan/homespace/issues"
+    "url": "https://github.com/totemstan/home/issues"
   },
-  "homepage": "https://github.com/totemstan/homespace#readme"
+  "homepage": "https://github.com/totemstan/home#readme"
 }

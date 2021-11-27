@@ -2,7 +2,7 @@
 
 Welcome to the **TOTEM** community.  Here you may elect to install module suites
 or standalone machines (docker images) to run with the basic **TOTEM** or 
-full **DEBE** service.
+full **DEBE** service..
 
 <table>
 <tr>
