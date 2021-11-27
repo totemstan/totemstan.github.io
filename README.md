@@ -2,6 +2,26 @@
 
 **TOTEM** provides a barebones web service with the following customizable features.
 
+<table>
+<th>
+<td>Module Installation</td>
+<tr>
+<td>[DEBE](https://github.com/totemstan/debe)</td>
+<tr>
+<td>[TOTEM](https://github.com/totemstan/totem)</td>
+<tr>
+<td>[SecureLink](https://github.com/totemstan/securelink)</td>
+<tr>
+<td>[SocketIO](https://github.com/totemstan/socketio)</td>
+<tr>
+<td>[ENUMS](https://github.com/totemstan/enums)</td>
+<tr>
+<td>[JSDB](https://github.com/totemstan/jsdb)</td>
+<tr>
+<td>[GeoHack](https://github.com/totemstan/geohack)</td>
+<tr>
+<td>[ATOMIC](https://github.com/totemstan/atomic)</td>
+</table>
 
 ## Contacting, Contributing, Following
 
