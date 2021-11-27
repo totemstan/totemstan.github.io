@@ -26,7 +26,7 @@ full **DEBE** service...>>>>
 	</td>
 <td><a href=https://github.com/totemstan/debe>DEBE</a></td>
 <td>Full web service</td>
-<td>Y</td>
+<td>Y</td>   
 <td></td>
 <td>Y</td>
 <td>Y</td>
