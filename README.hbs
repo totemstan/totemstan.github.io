@@ -5,22 +5,33 @@
 <table>
 <th>
 <td>Module</td>
+<td>Provides</td>
 <td>TOTEM Required</td>
 <td>DEBE Required</td>
 <tr>
 <td><a href=https://github.com/totemstan/debe>DEBE</a></td>
-<tr>
-<td><a href=https://github.com/totemstan/securelink>securelink</a></td>
-<tr>
-<td><a href=https://github.com/totemstan/socketio>SocketIO</a></td>
-<tr>
-<td><a href=https://github.com/totemstan/enums>ENUMS</a></td>
-<tr>
-<td><a href=https://github.com/totemstan/jsdb>JSDB</a></td>
+<td>GUI-enabled web service</td>
 <tr>
 <td><a href=https://github.com/totemstan/geohack>GeoHack</a></td>
+<td>GUI-enabled web service</td>
 <tr>
 <td><a href=https://github.com/totemstan/atomic>ATOMIC</a></td>
+<td>GUI-enabled web service</td>
+<tr>
+<td><a href=https://github.com/totemstan/totem>TOTEM</a></td>
+<td>GUI-enabled web service</td>
+<td>GUI-less web service</td>
+<td><a href=https://github.com/totemstan/securelink>SecureLink</a></td>
+<td>Secure logins and communications</td>
+<tr>
+<td><a href=https://github.com/totemstan/socketio>SocketIO</a></td>
+<td>inter client web sockets</td>
+<tr>
+<td><a href=https://github.com/totemstan/enums>ENUMS</a></td>
+<td>Basic data enumerators, getters and fetchers</td>
+<tr>
+<td><a href=https://github.com/totemstan/jsdb>JSDB</a></td>
+<td>MySQL and Neo4J DB agnosticator</td>
 <tr>
 <td><a href=https://github.com/totemstan/debe>DEBE</a></td>
 <tr>
