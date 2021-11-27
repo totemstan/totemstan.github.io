@@ -79,8 +79,8 @@ Welcome to the **TOTEM** community.  Here you wil be able to install either the 
 <tr>
 <td><a href=https://github.com/totemstan/totem>TOTEM</a></td>
 <td>Basic web service</td>
-<td>Y</td><tr>
-<td>Y</td><tr>
+<td>Y</td>
+<td>Y</td>
 <td></td>
 <td></td>
 <td>Y</td>
