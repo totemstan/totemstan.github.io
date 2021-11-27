@@ -2,10 +2,6 @@
 
 **TOTEM** provides a barebones web service with the following customizable features:
 
-<table>
-
-</table>
-
 ## Contacting, Contributing, Following
 
 Feel free to 
