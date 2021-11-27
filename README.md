@@ -1,10 +1,12 @@
 # TOTEM
 
-Welcome to the **TOTEM** community.  Here you will may install the modules
-requires to run with the basic **TOTEM** or full **DEBE** service.
+Welcome to the **TOTEM** community.  Here you may elect to install module suites
+or standalone machines (docker images) to run with the basic **TOTEM** or 
+full **DEBE** service.
 
 <table>
 <tr>
+<td>Machine</td>
 <td>Module</td>
 <td>Provides</td>
 <td>DEBE Service</td>
@@ -14,6 +16,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Datasets</td>
 <td>Files</td>
 <tr>
+<td><a href=https://github.com/totemstan/dockify>DEBE Machine</a></td>
 <td><a href=https://github.com/totemstan/debe>DEBE</a></td>
 <td>Full web service</td>
 <td>Y</td>
@@ -23,6 +26,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/geohack>GeoHack</a></td>
 <td>Earth chipper</td>
 <td>Y</td>
@@ -32,6 +36,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/atomic>ATOMIC</a></td>
 <td>Sateful engine compute threads</td>
 <td>Y</td>
@@ -41,6 +46,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/pipe>PIPE</a></td>
 <td>Sateful engine compute threads</td>
 <td>Y</td>
@@ -50,6 +56,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/man>MAN</a></td>
 <td>Matrix manipuator</td>
 <td>Y</td>
@@ -59,6 +66,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/ranpr>RandPR</a></td>
 <td>Generate random process</td>
 <td>Y</td>
@@ -68,6 +76,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/tfjs>TensorFlow</a></td>
 <td>CNN, BERT and other Boltzman machines</td>
 <td>Y</td>
@@ -77,6 +86,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/totem>TOTEM</a></td>
 <td>Basic web service</td>
 <td>Y</td>
@@ -86,6 +96,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/securelink>SecureLink</a></td>
 <td>Secure logins and communications</td>
 <td>Y</td>
@@ -95,6 +106,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/socketio>SocketIO</a></td>
 <td>Inter-client web sockets to sync changes</td>
 <td>Y</td>
@@ -104,6 +116,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/enums>ENUMS</a></td>
 <td>Basic data enumerators, getters and fetchers</td>
 <td>Y</td>
@@ -113,6 +126,7 @@ requires to run with the basic **TOTEM** or full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
+<td></td>
 <td><a href=https://github.com/totemstan/jsdb>JSDB</a></td>
 <td>MySQL and Neo4J DB agnosticator</td>
 <td>Y</td>
