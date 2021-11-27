@@ -10,17 +10,16 @@
 <td>DEBE Required</td>
 <tr>
 <td><a href=https://github.com/totemstan/debe>DEBE</a></td>
-<td>GUI-enabled web service</td>
+<td>Full GUI-enabled web service</td>
 <tr>
 <td><a href=https://github.com/totemstan/geohack>GeoHack</a></td>
-<td>GUI-enabled web service</td>
+<td>Earth chipper</td>
 <tr>
 <td><a href=https://github.com/totemstan/atomic>ATOMIC</a></td>
-<td>GUI-enabled web service</td>
+<td>Sateful engine compute threads</td>
 <tr>
 <td><a href=https://github.com/totemstan/totem>TOTEM</a></td>
-<td>GUI-enabled web service</td>
-<td>GUI-less web service</td>
+<td>Basic GUI-less web service</td>
 <td><a href=https://github.com/totemstan/securelink>SecureLink</a></td>
 <td>Secure logins and communications</td>
 <tr>
