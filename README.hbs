@@ -6,7 +6,7 @@ full **DEBE** service.
 
 <table>
 <tr>
-<td>Machine</td>
+<td>Required Machines</td>
 <td>Module</td>
 <td>Provides</td>
 <td>DEBE Required</td>
