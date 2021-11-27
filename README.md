@@ -1,7 +1,7 @@
 # TOTEM
 
-Welcome to the **TOTEM** community.  Here you wil be able to install either the basic 
-**TOTEM** or full **DEBE web service.
+Welcome to the **TOTEM** community.  Here you will may install the modules
+requires to run with the basic **TOTEM** or full **DEBE** service.
 
 <table>
 <tr>
