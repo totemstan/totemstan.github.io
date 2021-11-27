@@ -20,6 +20,7 @@
 <tr>
 <td><a href=https://github.com/totemstan/totem>TOTEM</a></td>
 <td>Basic GUI-less web service</td>
+<tr>
 <td><a href=https://github.com/totemstan/securelink>SecureLink</a></td>
 <td>Secure logins and communications</td>
 <tr>
