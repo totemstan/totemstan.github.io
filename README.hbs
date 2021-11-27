@@ -4,37 +4,29 @@
 
 <table>
 <th>
-<td>Module Installation</td>
+<td>Module</td>
+<td>TOTEM Required</td>
+<td>DEBE Required</td>
 <tr>
-<td>
-	<a href=https://github.com/totemstan/debe>DEBE</a>
-</td>
+<td><a href=https://github.com/totemstan/debe>DEBE</a></td>
 <tr>
-<td>
-[TOTEM](https://github.com/totemstan/totem)
-</td>
+<td><a href=https://github.com/totemstan/securelink>securelink</a></td>
 <tr>
-<td>
-[SecureLink](https://github.com/totemstan/securelink)
-</td>
+<td><a href=https://github.com/totemstan/socketio>SocketIO</a></td>
 <tr>
-<td>
-[SocketIO](https://github.com/totemstan/socketio)
-</td>
+<td><a href=https://github.com/totemstan/enums>ENUMS</a></td>
 <tr>
-<td>
-[ENUMS](https://github.com/totemstan/enums)</td>
+<td><a href=https://github.com/totemstan/jsdb>JSDB</a></td>
 <tr>
-<td>[JSDB](https://github.com/totemstan/jsdb)
-</td>
+<td><a href=https://github.com/totemstan/geohack>GeoHack</a></td>
 <tr>
-<td>
-[GeoHack](https://github.com/totemstan/geohack)
-</td>
+<td><a href=https://github.com/totemstan/atomic>ATOMIC</a></td>
 <tr>
-<td>
-[ATOMIC](https://github.com/totemstan/atomic)
-</td>
+<td><a href=https://github.com/totemstan/debe>DEBE</a></td>
+<tr>
+<td><a href=https://github.com/totemstan/debe>DEBE</a></td>
+<tr>
+<td><a href=https://github.com/totemstan/debe>DEBE</a></td>
 </table>
 
 
