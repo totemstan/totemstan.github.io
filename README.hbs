@@ -9,14 +9,17 @@ full **DEBE** service.
 <td>Machine</td>
 <td>Module</td>
 <td>Provides</td>
-<td>DEBE Service</td>
-<td>TOTEM Service</td>
+<td>DEBE Required</td>
+<td>TOTEM Required</td>
 <td>GUI</td>
 <td>Notebooks</td>
 <td>Datasets</td>
 <td>Files</td>
 <tr>
-<td><a href=https://github.com/totemstan/dockify>DEBE Machine</a></td>
+<td><a href=https://github.com/totemstan/dockify>Debe</a>
+	<a href=https://github.com/totemstan/dockify>MySQL</a>
+	<a href=https://github.com/totemstan/dockify>Neo4J</a>
+	</td>
 <td><a href=https://github.com/totemstan/debe>DEBE</a></td>
 <td>Full web service</td>
 <td>Y</td>
@@ -86,7 +89,10 @@ full **DEBE** service.
 <td>Y</td>
 <td>Y</td>
 <tr>
-<td></td>
+<td><a href=https://github.com/totemstan/dockify>Totem</a>
+	<a href=https://github.com/totemstan/dockify>MySQL</a>
+	<a href=https://github.com/totemstan/dockify>Neo4J</a>
+	</td>
 <td><a href=https://github.com/totemstan/totem>TOTEM</a></td>
 <td>Basic web service</td>
 <td>Y</td>
