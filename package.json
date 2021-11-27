@@ -5,8 +5,7 @@
   "main": "home.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"redoc": "jsdoc2md --template README.hbs --files home.js >README.md; git commit -am 'redoc'; git push agent master",
-    "resite": "node debe.js blog index; git commit -am 'redoc'; git push agent master"
+	"redoc": "jsdoc2md --template README.hbs --files home.js >README.md; git commit -am 'redoc'; git push agent master"
   },
   "repository": {
     "type": "git",
