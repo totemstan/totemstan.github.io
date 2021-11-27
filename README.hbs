@@ -86,6 +86,7 @@ Welcome to the **TOTEM** community.  Here you wil be able to install either the 
 <td></td>
 <td>Y</td>
 <td>Y</td>
+<tr>
 <td><a href=https://github.com/totemstan/securelink>SecureLink</a></td>
 <td>Secure logins and communications</td>
 <td>Y</td>
