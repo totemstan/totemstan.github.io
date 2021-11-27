@@ -2,7 +2,11 @@
 
 Welcome to the **TOTEM** community.  Here you may elect to install module suites
 or standalone machines (docker images) to run with the basic **TOTEM** or 
-full **DEBE** service.
+full **DEBE** service...>>>>
+
+| aaaaa | bbbbb | ccccc |
+| ----- | ----- | ----- |
+| test | there | bear |
 
 <table>
 <tr>
@@ -123,7 +127,7 @@ full **DEBE** service.
 <td>Y</td>
 <tr>
 <td></td>
-<td><a href=https://github.com/totemstan/enums>ENUMS</a></td>
+<td>[ENUMS](https://github.com/totemstan/enums)</td>
 <td>Basic data enumerators, getters and fetchers</td>
 <td>Y</td>
 <td>Y</td>
