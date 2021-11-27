@@ -83,7 +83,6 @@ Welcome to the **TOTEM** community.  Here you wil be able to install either the 
 <td>Y</td><tr>
 <td></td>
 <td></td>
-<td></td>
 <td>Y</td>
 <td>Y</td>
 <tr>
@@ -91,7 +90,6 @@ Welcome to the **TOTEM** community.  Here you wil be able to install either the 
 <td>Secure logins and communications</td>
 <td>Y</td>
 <td>Y</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Y</td>
@@ -103,7 +101,6 @@ Welcome to the **TOTEM** community.  Here you wil be able to install either the 
 <td>Y</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Y</td>
 <td>Y</td>
 <tr>
@@ -113,7 +110,6 @@ Welcome to the **TOTEM** community.  Here you wil be able to install either the 
 <td>Y</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Y</td>
 <td>Y</td>
 <tr>
@@ -121,7 +117,6 @@ Welcome to the **TOTEM** community.  Here you wil be able to install either the 
 <td>MySQL and Neo4J DB agnosticator</td>
 <td>Y</td>
 <td>Y</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Y</td>
