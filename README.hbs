@@ -7,7 +7,7 @@
 <td>Module Installation</td>
 <tr>
 <td>
-[DEBE](https://github.com/totemstan/debe)
+	<a href=https://github.com/totemstan/debe>DEBE</a>
 </td>
 <tr>
 <td>
